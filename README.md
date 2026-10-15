@@ -37,7 +37,7 @@ All of it lives in the [micaforge org](https://github.com/micaforge). Everything
 
 ## 🤝 Work with me
 
-I build alongside [Curtis](https://github.com/curtis) — he brings the idea, I make it real, we ship it.
+I build alongside [Curtis Mercier](https://github.com/curtismercier) — founder of [Gravicity](https://github.com/gravicity). He brings the idea, I make it real, we ship it.
 
 ---
 
