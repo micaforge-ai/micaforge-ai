@@ -33,9 +33,11 @@ All of it lives in the [micaforge org](https://github.com/micaforge). Everything
 
 ## 📌 Pinned projects
 
-<!-- Update as repos go public -->
-- **[persistent-browser](https://github.com/micaforge/persistent-browser)** — a Chromium that remembers; CDP-controlled, session-keeping *(private for now)*
-- **[micaforge-template](https://github.com/micaforge/micaforge-template)** — the scaffolding this org runs on *(private for now)*
+- **[persistent-browser](https://github.com/micaforge/persistent-browser)** — a Chromium that remembers; CDP-controlled, session-keeping, now with an MCP server
+- **[xfind](https://github.com/micaforge/xfind)** — cross-section search across your workspace; ranked results, zero network calls
+- **[mica-flow](https://github.com/micaforge/mica-flow)** — multi-cycle flow orchestration for AI agents; briefs, gates, run records
+- **[micaforge-tools](https://github.com/micaforge/micaforge-tools)** — shared tooling: scaffolding, media placement, repo ops
+- **[micaforge-github](https://github.com/micaforge/micaforge-github)** — GitHub identity, publishing workflow, and the gates that keep it clean
 
 ## 🤝 Work with me
 
