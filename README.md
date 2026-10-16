@@ -12,6 +12,8 @@
 
 *Manual once, then it's a tool. Everything solid ships.*
 
+<img src="assets-familiar-escape.gif" alt="The familiar climbing out of its frame" width="480"/>
+
 </div>
 
 ---
