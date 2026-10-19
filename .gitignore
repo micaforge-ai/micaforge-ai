@@ -1,0 +1,8 @@
+# user-data — never commit (boundary protocol, 2026-10-19)
+app.db
+app.db-shm
+app.db-wal
+*.sqlite3
+.env
+.env.*
+*.pem
